@@ -1,4 +1,5 @@
-[
+{
+    "data": [
             {
                 "biologicalTarget": "vacc",
                 "franchise": "Oncology",
@@ -30,3 +31,4 @@
                 "therapeuticArea": "Neurology"
             }
 			]
+}	
