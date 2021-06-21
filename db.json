@@ -1,5 +1,4 @@
-{
-    "data": [
+[
             {
                 "biologicalTarget": "vacc",
                 "franchise": "Oncology",
@@ -30,9 +29,4 @@
                 "projectStatus": "Great",
                 "therapeuticArea": "Neurology"
             }
-			],
-			"paging": {
-			"total": 3	
-			}
-			
-}			
+			]
